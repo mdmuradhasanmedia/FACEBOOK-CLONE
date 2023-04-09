@@ -181,11 +181,11 @@ class Main:
         print(" [02] MY fACEBOOK ACCOUNT  \033[1;35m")
         print(" [00] Exit")        
         Alif =input(" [?] Choose : ")
-        os.system('xdg-open https://facebook.com/mdmuradhasanmedia')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100051985358436')
         if Alif in ["1", "01"]:
             num()
         if Alif in ["2","02"]:
-            os.system('xdg-open https://facebook.com/mdmuradhasanmedia')
+            os.system('xdg-open https://www.facebook.com/profile.php?id=100051985358436')
         if Alif in [" 0", "00"]:
             exit()
         else:
