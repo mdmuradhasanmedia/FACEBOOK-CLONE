@@ -90,7 +90,7 @@ ta = current.year
 bu = current.month
 ha = current.day
 today = date.today()
-os.system('xdg-open https://www.facebook.com/profile.php?id=100051985358436')
+os.system('xdg-open https://github.com/mdmuradhasanmedia')
 logo = ("""
 
 
@@ -296,7 +296,7 @@ def rcrack(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\r%s {x}[{xr}𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚 {x}][%s|%s][OK:{xr}%s{x}]'%(H,loop,tl,len(oks))),
+        sys.stdout.write(f'\r\r%s {x}[{xr}𝐌𝐝. 𝐌𝐮𝐫𝐚𝐝 𝐇𝐚𝐬𝐚𝐧 𝐌𝐞𝐝𝐢𝐚{x}][%s|%s][OK:{xr}%s{x}]'%(H,loop,tl,len(oks))),
         sys.stdout.flush()
     except:
         pass
