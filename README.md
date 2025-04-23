@@ -3,5 +3,5 @@
 rm -rf FACEBOOK-CLONE
 git clone https://github.com/mdmuradhasanmedia/FACEBOOK-CLONE
 cd FACEBOOK-CLONE
-python fb-clone.py
+python index.py
 ```
